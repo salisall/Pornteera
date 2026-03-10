@@ -55,10 +55,12 @@ Technologies:
 ## 📫 Connect with me
 
 - GitHub: https://github.com/P_Chomtong
-- LinkedIn: (optional)
-
+- LinkedIn: 
 
 
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Python](https://img.shields.io/badge/Python-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-orange)
