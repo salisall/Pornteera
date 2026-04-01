@@ -14,38 +14,29 @@ I enjoy building machine learning models and exploring AI systems.
 
 ## 📚 My Projects
 
-### 🩺 Heart Failure Prediction
-Machine learning model predicting survival of heart failure patients.
+### Rate Cards International Projects
+Machine learning model predicting standard pricing for services across different countries.
 
 Technologies:
 - Python
 - pandas
 - scikit-learn
-- matplotlib
+- React
+- Docker
+
 
 ---
 
-### 📊 Data Analysis Projects
-Exploratory data analysis and visualization using real datasets.
+##  Interests
 
-Technologies:
-- Python
-- pandas
-- seaborn
-- matplotlib
+-  Artificial Intelligence
+-  Machine Learning
+-  Data Science
+-  Predictive Modeling
 
 ---
 
-## 🎯 Interests
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 📈 Predictive Modeling
-
----
-
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Deep Learning
 - Neural Networks
@@ -53,20 +44,14 @@ Technologies:
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 
-- GitHub: https://github.com/P_Chomtong
-- LinkedIn: 
-
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
+- GitHub: https://github.com/salisall
+- LinkedIn: www.linkedin.com/in/pornteera-chomtong-b7954b259
 
 ---
 
-## 🌱 My Long-Term AI Vision
+##  My Long-Term AI Vision
 
 My private goal is to create **J.O.S.I.E.**
 
@@ -74,29 +59,29 @@ A personal **Multi-Modal Large Language Model Assistant** designed to manage and
 
 J.O.S.I.E. would be capable of:
 
-- 🏠 Autonomously controlling and managing smart home devices  
+-  Autonomously controlling and managing smart home devices  
   (sensors, cameras, lights, and other connected systems)
 
-- 🔧 Advanced tool-calling capabilities for automation tasks
+-  Advanced tool-calling capabilities for automation tasks
 
-- 🎙️ Raw audio input processing  
+- Raw audio input processing  
   (understanding human speech and environmental sounds such as alarms or fire alerts)
 
-- 🎥 Understanding visual inputs  
+- Understanding visual inputs  
   (images and video streams from security cameras)
 
-- 🗣️ Producing natural assistant speech and text responses  
+- Producing natural assistant speech and text responses  
   similar to modern conversational AI systems
 
-- ⚡ Real-time interaction with users
+- Real-time interaction with users
 
-- 🧠 Maintaining both **short-term and long-term memory**
+- Maintaining both **short-term and long-term memory**
 
-- 🔄 Continuously updating its knowledge and capabilities
+- Continuously updating its knowledge and capabilities
 
-- 🤖 Operating as a **real-time, full-duplex multimodal AI system**
+- Operating as a **real-time, full-duplex multimodal AI system**
 
-- 💬 Initiating conversations and proactive assistance when necessary
+- Initiating conversations and proactive assistance when necessary
 
 This project represents my long-term interest in **autonomous AI systems, multimodal models, and intelligent assistants**.
 
@@ -104,7 +89,7 @@ This project represents my long-term interest in **autonomous AI systems, multim
 
 
 
-## 🏆 Certifications & Learning
+## Certifications & Learning
 
 Courses and topics I have studied include:
 
@@ -119,7 +104,5 @@ Courses and topics I have studied include:
 - Linear Algebra for Machine Learning  
 - Probability and Statistics for Data Science  
 - Algorithms and Computational Theory  
-
-…and many more as I continue expanding my AI knowledge.
 
 ---
